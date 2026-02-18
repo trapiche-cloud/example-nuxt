@@ -1,0 +1,13 @@
+{
+  "name": "example-nuxt",
+  "version": "1.0.0",
+  "description": "Counter app with Nuxt — Trapiche example",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "node .output/server/index.mjs"
+  },
+  "dependencies": {
+    "nuxt": "^3.15.4"
+  }
+}
